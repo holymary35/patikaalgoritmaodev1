@@ -1,2 +1,2 @@
-# patikaalgoritmaodev1
-insertion sort
+# patikaalgoritmaodevleritumu
+insertion,merge,binary search tree.
